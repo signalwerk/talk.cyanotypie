@@ -60,7 +60,18 @@ _Selber machen!_
 
 ## Resultate
 
+<div class="grid">
+<div class="col7 img--w100p">
+
 ![alt text](img/conv/IMG_9228_rot.jpg)
+
+</div>
+<div class="col4 img--w100p">
+
+![alt text](img/conv/IMG_9233.jpg)
+
+</div>
+</div>
 
 --s--
 
